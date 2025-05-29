@@ -3,14 +3,19 @@ layout: default
 title: Hamza Imran
 ---
 
-# Hello, I’m Hamza Imran 👋
+<section style="background-color: #f9f9f9; padding: 40px 20px; border-radius: 10px; margin-bottom: 40px;">
+  <h1 style="text-align: center; font-size: 2.5rem; margin-bottom: 20px;">👋 Hello, I'm Hamza Imran</h1>
+  <p style="font-size: 1.1rem; line-height: 1.6; max-width: 800px; margin: 0 auto; text-align: center;">
+    I’m an <strong>Associate Engineer in Electronics</strong> with a deep interest in automation, embedded systems, and hands-on innovation.
+    <br><br>
+    This is my personal GitHub Pages site where I share the projects I've built — from smart home automation to sensor-based systems.
+    <br><br>
+    Feel free to explore my work, get inspired, and try out any of these projects yourself.
+    <br><br>
+    Thanks for visiting!
+  </p>
+</section>
 
-I am an **Associate Engineer** specializing in **Electronics** with a passion for building practical and innovative projects.
-
-Welcome to my personal GitHub Pages site! Here, I showcase my latest work and experiments.  
-Feel free to explore, learn, and try these projects yourself.
-
-Thank you for stopping by — I hope you find something inspiring!
 
 ---
 

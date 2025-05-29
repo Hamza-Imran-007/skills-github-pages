@@ -3,10 +3,14 @@ layout: default
 title: Hamza Imran
 ---
 
-# Hi there my name is Hamza Imran. I have done Associate Engineering in Electronics 
+# Hello, I’m Hamza Imran 👋
 
-This is my personal GitHub Pages site where i will be uploading my projects.
-so enjoy and Feel free to try these projects yourself
+I am an **Associate Engineer** specializing in **Electronics** with a passion for building practical and innovative projects.
+
+Welcome to my personal GitHub Pages site! Here, I showcase my latest work and experiments.  
+Feel free to explore, learn, and try these projects yourself.
+
+Thank you for stopping by — I hope you find something inspiring!
 
 ---
 

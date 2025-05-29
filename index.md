@@ -1,3 +1,7 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="logo.png" alt="logo" style="width: 120px; height: auto;">
+</div>
+
 <section style="max-width: 900px; margin: auto; padding: 40px 20px; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
 
   <h1 style="font-size: 2.8rem; text-align: center; margin-bottom: 10px;">🎮 Electronic Playground</h1>

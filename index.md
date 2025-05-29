@@ -34,7 +34,7 @@
           <li>Real-time room occupancy</li>
         </ul>
       </p>
-      <a href="https://github.com/Hamza-Imran-007/your-project-repo" style="display: inline-block; margin-top: 10px; background-color: #0366d6; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;" target="_blank" rel="noopener">🔗 View on GitHub</a>
+      <a href="https://github.com/Hamza-Imran-007/your-project-repo](https://github.com/Hamza-Imran-007/Home-Automation-Using-Google-Assistant" style="display: inline-block; margin-top: 10px; background-color: #0366d6; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;" target="_blank" rel="noopener">🔗 View on GitHub</a>
     </div>
   </section>
 

@@ -11,7 +11,7 @@ so enjoy and Feel free to try these projects yourself
 # 🛠️ Projects
 
 ### [Home Automation System Using Google Assistang]
-[(https://github.com/yourusername/weather-app](https://github.com/Hamza-Imran-007/Home-Automation-Using-Google-Assistant))
+[https://github.com/Hamza-Imran-007/Home-Automation-Using-Google-Assistant](https://github.com/Hamza-Imran-007/Home-Automation-Using-Google-Assistant))
 This project is a comprehensive Home Automation System that enables voice-controlled and sensor-based management of home appliances using Google Assistant, with additional intelligence through temperature monitoring and human presence detection.
 
 🔧 System Overview

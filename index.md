@@ -66,7 +66,7 @@
     </p>
     <ul>
       <li>📧 Email: <a href="mailto:hamzaimranhamza5@gmail.com">hamzaimranhamza5@gmail.com</a></li>
-      <li>💼 LinkedIn: <a href="#">No Linkedin Profile</a></li>
+      <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/hamza-imran-a80a5036a/"> Hamza Imran</a></li>
       <li>🐙 GitHub: <a href="https://github.com/Hamza-Imran-007" target="_blank" rel="noopener">Hamza-Imran-007</a></li>
     </ul>
     <p>Thanks for visiting my Electronic Playground — stay curious and keep building! ⚡</p>

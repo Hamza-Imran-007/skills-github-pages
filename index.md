@@ -40,6 +40,25 @@
     </div>
   </section>
 
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+  <h3 style="margin-top: 0;">🌞 Solar Tracking System</h3>
+  <p>
+    This project showcases a <strong>Solar Tracking System</strong> using an <strong>Arduino UNO</strong>, <strong>2 Light Dependent Resistors (LDRs)</strong>, and a <strong>Servo Motor</strong>. It aims to enhance solar panel efficiency by aligning the panel toward the direction of maximum sunlight.
+  </p>
+  <p>
+    Two LDRs are positioned on opposite sides of the solar panel. The Arduino reads the light intensity from each LDR and compares the values. If there’s a significant difference, it adjusts the position of the panel using the servo motor to ensure it's always facing the brighter side.
+  </p>
+  <p>
+    Key features of this system include:
+    <ul style="margin-top: 5px; margin-bottom: 5px;">
+      <li>Sun position tracking using only 2 LDRs</li>
+      <li>Precise solar panel movement via servo motor</li>
+      <li>Increased solar energy efficiency with minimal hardware</li>
+    </ul>
+  </p>
+  <a href="https://github.com/Hamza-Imran-007/Solar-Tracking-System.git" style="display: inline-block; margin-top: 10px; background-color: #0366d6; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;" target="_blank" rel="noopener">🔗 View on GitHub</a>
+</div>
+
   <section>
     <h2 style="font-size: 1.6rem; border-bottom: 2px solid #eaeaea; padding-bottom: 8px;">📫 Contact</h2>
     <p>
